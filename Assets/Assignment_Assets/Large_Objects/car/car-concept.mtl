@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Object001_mtl
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Object002_2015_01_09_03_14_10_complete_rpf_converted_jpg_materi
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.020000 0.020000 0.020000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Object002_2015-01-09_03-14-10_complete.rpf_converted.jpg
+map_Kd Object002_2015-01-09_03-14-10_complete.rpf_converted.jpg
